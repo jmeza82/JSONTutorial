@@ -12,6 +12,7 @@
 		83019FAB2001D07C00C55565 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83019FA92001D07C00C55565 /* Main.storyboard */; };
 		83019FAD2001D07C00C55565 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83019FAC2001D07C00C55565 /* Assets.xcassets */; };
 		83019FB02001D07C00C55565 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83019FAE2001D07C00C55565 /* LaunchScreen.storyboard */; };
+		83019FB82001D90C00C55565 /* friends.json in Resources */ = {isa = PBXBuildFile; fileRef = 83019FB72001D90C00C55565 /* friends.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		83019FAC2001D07C00C55565 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83019FAF2001D07C00C55565 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		83019FB12001D07C00C55565 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83019FB72001D90C00C55565 /* friends.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = friends.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				83019FA52001D07C00C55565 /* AppDelegate.swift */,
 				83019FA72001D07C00C55565 /* ViewController.swift */,
 				83019FA92001D07C00C55565 /* Main.storyboard */,
+				83019FB72001D90C00C55565 /* friends.json */,
 				83019FAC2001D07C00C55565 /* Assets.xcassets */,
 				83019FAE2001D07C00C55565 /* LaunchScreen.storyboard */,
 				83019FB12001D07C00C55565 /* Info.plist */,
@@ -126,6 +129,7 @@
 				83019FB02001D07C00C55565 /* LaunchScreen.storyboard in Resources */,
 				83019FAD2001D07C00C55565 /* Assets.xcassets in Resources */,
 				83019FAB2001D07C00C55565 /* Main.storyboard in Resources */,
+				83019FB82001D90C00C55565 /* friends.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
